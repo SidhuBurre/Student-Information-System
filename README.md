@@ -7,10 +7,4 @@ Student information System is to allow the administrator of any organization to 
 - **Students**
 - **Searchr**
 - **BackUp the Database**
-- **Marks Calculation**
-
-###Student Marks:
-When the Administrator entered the student marks into the database automatically it will caculates the percentage and total.
-
-# Mail me to:
-If there is any help on this Project i will help you please feel free to mail me to : *sidhu7018@gmail.com*
+- **Student Marks Calculation**
